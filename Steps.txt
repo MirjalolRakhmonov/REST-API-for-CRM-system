@@ -1,3 +1,4 @@
 1. 1) Create Customer REST Controller
    2) Autowire Customer Service
    3) Add mapping for GET/customers
+   4) Add mapping for GET/customers/{customerId}
