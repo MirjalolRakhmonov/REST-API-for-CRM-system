@@ -1,4 +1,10 @@
-1. 1) Create Customer REST Controller
+1. 
+   1) Create Customer REST Controller
    2) Autowire Customer Service
    3) Add mapping for GET/customers
    4) Add mapping for GET/customers/{customerId}
+2.
+   1) Create a custom error response class
+   2) Create a custom exception class
+   3) Update REST service to throw exception if customer is not found
+   4) Add exception handler methods using @ExceptionHandler
