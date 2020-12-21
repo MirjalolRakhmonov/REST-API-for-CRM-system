@@ -8,3 +8,5 @@
    2) Create a custom exception class
    3) Update REST service to throw exception if customer is not found
    4) Add exception handler methods using @ExceptionHandler
+3.
+     Add Customer
