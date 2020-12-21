@@ -1,8 +1,8 @@
-package com.luv2code.springdemo.service;
+package com.mirjalolcode.springdemo.service;
 
 import java.util.List;
 
-import com.luv2code.springdemo.entity.Customer;
+import com.mirjalolcode.springdemo.entity.Customer;
 
 public interface CustomerService {
 
