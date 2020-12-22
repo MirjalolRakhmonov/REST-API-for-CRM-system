@@ -18,9 +18,6 @@ Spring REST - CRUD Database for Customer Relationship Management system.
      Update Customer
 5.
      Delete Customer
-
-# Description
- Creating a Spring REST API for customers data with CRUD operations
  
  # API points
  @RequestMapping("/api")
