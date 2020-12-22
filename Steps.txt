@@ -10,3 +10,5 @@
    4) Add exception handler methods using @ExceptionHandler
 3.
      Add Customer
+4.
+     Update Customer
