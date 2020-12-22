@@ -12,3 +12,5 @@
      Add Customer
 4.
      Update Customer
+5.
+     Delete Customer
